@@ -3,7 +3,7 @@ layout: cv
 title: Mark Rowley's CV
 ---
 # Mark Rowley
-Computer Scientist, Artist, Writer
+Computer Scientist, Busieness Consultant, Creative Writer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
