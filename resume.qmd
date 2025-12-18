@@ -3,17 +3,16 @@ layout: cv
 title: Mark Rowley's CV
 ---
 # Mark Rowley
-Computer Scientist, Busieness Consultant, Creative Writer
+Computer Scientist, Business Consultant, Creative Writer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mrowley621@gmail.com">mrowley621@gmail.com</a>
 </div>
-
 
 ## Currently
 
 Attending Brigham Young University - Idaho
+Co-Founder of a Creative Studio
 
 ### Specialized in
 
@@ -22,8 +21,30 @@ Data Science, Software Design, UI/UX Design, Data Visualization, Creative Writin
 
 ### Research interests
 
-AI Training & Development, Biotechnology, Advanced Portable Infrastructure
+AI Training & Development, Biotechnology, Adaptive Infrastructure
 
+## Occupation
+
+`2022-2023`
+__Technology Specialist, Volunteer Missionary__
+- Provided reports on data collected from dozens of sources.
+- Genereated training content, and official communication between different departments.
+
+`2024-2024`
+__IT Specialist, Business Workshop__
+- Managed website and incoming online orders.
+- Created trainings on using company software and standardized financial reporting methods.
+
+`2024-2024`
+__Chief Financial Officer, Business Workshop__
+- Managed a small team of accountants to generate financial and inventory reports.
+- Simplified company financial tracking software.
+- Trained employees in the use of financial software.
+
+`2024-Now`
+__School Custodian__
+- Work individually and in varied teams to complete detail-oriented tasks in a timely manner.
+- Assist in smaller leadership roles as needed.
 
 ## Education
 
@@ -32,21 +53,12 @@ __Glacier Peak High School, Glacier Peak__
 
 `2017-2020`
 __Everett Community College, Everett__
+- Associate Degree of General Studies
 
 `2020-Now`
 __Brigham Young University - Idaho, Rexburg__
-
-
-## Awards
-
-
-## Publications
-
-### Journals
-
-### Patents
-
-## Occupation
+- Bachelors Degree of Computer Science
+- Minor in Business Management
 
 <!-- ### Footer
 
